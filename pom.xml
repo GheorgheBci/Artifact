@@ -16,11 +16,14 @@
             <url>https://jitpack.io</url>
         </repository>
     </repositories>
-        
-    <dependency>
-        <groupId>com.github.GheorgheBci</groupId>
-        <artifactId>Artifact</artifactId>
-        <version>v1</version>
-    </dependency>
+    <dependencies>
+           
+        <dependency>
+            <groupId>com.github.GheorgheBci</groupId>
+            <artifactId>Artifact</artifactId>
+            <version>v1</version>
+        </dependency>
+    </dependencies>
+    
           
 </project>
